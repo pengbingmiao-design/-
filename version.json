@@ -1,5 +1,5 @@
 {
   "version": "2.4.0",
-  "url": "https://github.com/YOUR_GITHUB_USERNAME/browser-profile-manager/releases/download/v2.5.0/BrowserProfileManager.exe",
-  "notes": "- 修复了若干问题\n- 新增自动更新功能"
+  "url": "https://github.com/pengbingmiao-design/browser-profile-manager/releases/download/v2.5.0/BrowserProfileManager.exe",
+  "notes": "- 首次发布\n- 支持多用户浏览器隔离\n- 机器码绑定激活\n- 自动更新功能"
 }

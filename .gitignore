@@ -1,0 +1,28 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Source code (contains SECRET_KEY — keep private!)
+*.py
+*.bat
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data (sensitive)
+.browser_profile_manager/
+license.key
+
+# Docs (keep private if you prefer)
